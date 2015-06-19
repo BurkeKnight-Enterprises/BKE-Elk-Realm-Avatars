@@ -1,7 +1,14 @@
 <p>BKE-Elk Realm Avatars</p>
 <p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p><p>Avatars from the MMORPG game The Realm Online.</p><br />
 
-<p>What's The Realm Online?<br />
+<!-- Place this tag where you want the button to render. -->
+<a aria-label="Fork BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars on GitHub" data-count-aria-label="# forks on GitHub" data-count-api="/repos/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars#forks_count" data-count-href="/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/network" data-style="mega" href="https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/fork" class="github-button">Fork</a> <!-- Place this tag where you want the button to render. -->
+<a aria-label="Star BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars on GitHub" data-count-aria-label="# stargazers on GitHub" data-count-api="/repos/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars#stargazers_count" data-count-href="/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/stargazers" data-style="mega" href="https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars" class="github-button">Star</a> <!-- Place this tag where you want the button to render. -->
+<a aria-label="Issue BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars on GitHub" data-count-aria-label="# issues on GitHub" data-count-api="/repos/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars#open_issues_count" data-style="mega" href="https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/issues" class="github-button">Issue</a> <!-- Place this tag where you want the button to render. -->
+<a aria-label="Download BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars on GitHub" data-style="mega" href="https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/releases/download/BKE-Elk-Realm-Avatars_v2.0.0/BKE-Elk-Realm-Avatars_v2.0.0.zip" class="github-button">Download</a> <!-- Place this tag right after the last button or just before your close body tag. -->
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+
+<br /><p>What's The Realm Online?<br />
 The first & longest established graphical massively-multiplayer MMORPG fantasy adventure game. The Realm is the ideal place for role playing adventures, quests, and online chat rooms. </p>
 <p>"The Realm Online" is an exciting, adventurous land of monsters, magic, and medieval society. Enter a world of companionship where thousands of players from around the globe are waiting to welcome you to a very special place.</p>
 <p><strong>Disclaimer:</strong><br />
