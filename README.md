@@ -1,5 +1,11 @@
 <p>BKE-Elk Realm Avatars</p>
-<p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p><p>Avatars from the MMORPG game The Realm Online.</p>
+<p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p><p>Avatars from the MMORPG game The Realm Online.</p><br />
+
+[![Forks](https://img.shields.io/github/forks/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/network)
+[![Stars](https://img.shields.io/github/stars/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars.svg)](hhttps://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/issues)
+[![Current Release](https://img.shields.io/github/release/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Realm-Avatars/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)<br /><br />
 <p>What's The Realm Online?<br />
 The first & longest established graphical massively-multiplayer MMORPG fantasy adventure game. The Realm is the ideal place for role playing adventures, quests, and online chat rooms. </p>
 <p>"The Realm Online" is an exciting, adventurous land of monsters, magic, and medieval society. Enter a world of companionship where thousands of players from around the globe are waiting to welcome you to a very special place.</p>
